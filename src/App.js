@@ -99,6 +99,7 @@ function App() {
         <div className="word-selection">
           <h2>Kaç kelime ile oynamak istersiniz?</h2>
           <button onClick={() => startGame(5)}>5</button>
+          <button onClick={() => startGame(5)}>55</button>
           <button onClick={() => startGame(30)}>30</button>
           <button onClick={() => startGame(50)}>50</button>
           <button onClick={() => startGame(100)}>100</button>

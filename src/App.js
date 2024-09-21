@@ -1,5 +1,3 @@
-// src/App.js
-
 import React, { useState } from 'react';
 import './App.css'; // CSS dosyasını bağlayalım.
 import wordsData from './words.json'; // JSON dosyasını içe aktar
@@ -68,10 +66,6 @@ function App() {
       setFeedback("Yanlış, doğru cevap: " + currentWord.tr);
       setWrongAnswers((prev) => [...prev, { question: currentWord.en, correct: currentWord.tr }]);
     }
-
-    setTimeout(() => {
-      getNextWord(remainingWords);  // 0.5 saniye sonra yeni kelimeyi getir
-    }, 2000);
   };
 
   // Oyun bittikten sonra yanlış cevapları göster
@@ -121,6 +115,9 @@ function App() {
             </div>
 
             {feedback && <p className="feedback">{feedback}</p>}
+
+            {/* Yeni kelimeye geçmek için buton */}
+            <button onClick={() => getNextWord(remainingWords)}>Sonraki Kelime</button>
           </div>
         )
       )}

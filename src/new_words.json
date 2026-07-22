@@ -1,0 +1,2657 @@
+[
+  {
+    "id": 1001,
+    "en": "Accelerate",
+    "tr": "Hızlanmak, Hız Kazanmak"
+  },
+  {
+    "id": 1002,
+    "en": "Accept",
+    "tr": "Kabul Etmek, Kabullenmek"
+  },
+  {
+    "id": 1003,
+    "en": "Accumulate",
+    "tr": "Toplamak, Biriktirmek"
+  },
+  {
+    "id": 1004,
+    "en": "Ache",
+    "tr": "Ağrımak"
+  },
+  {
+    "id": 1005,
+    "en": "Adapt",
+    "tr": "Uydurmak, Uyarlamak, Uyum Sağlamak"
+  },
+  {
+    "id": 1006,
+    "en": "Alleviate",
+    "tr": "Hafifletmek, Azalmak, Yatışmak"
+  },
+  {
+    "id": 1007,
+    "en": "Conduct",
+    "tr": "Yönetmek, Düzenlemek"
+  },
+  {
+    "id": 1008,
+    "en": "Confirm",
+    "tr": "Onaylamak, Doğrulamak"
+  },
+  {
+    "id": 1009,
+    "en": "Conserve",
+    "tr": "Korumak, Muhafaza Etmek"
+  },
+  {
+    "id": 1010,
+    "en": "Contradict",
+    "tr": "Yalanlamak, Aksini İddia Etmek"
+  },
+  {
+    "id": 1011,
+    "en": "Contribute",
+    "tr": "Katkıda Bulunmak, Vermek"
+  },
+  {
+    "id": 1012,
+    "en": "Damage",
+    "tr": "Hasar Yapmak, Zarar Vermek"
+  },
+  {
+    "id": 1013,
+    "en": "Debate",
+    "tr": "Çekişmek, Tartışmak"
+  },
+  {
+    "id": 1014,
+    "en": "Decay",
+    "tr": "Çürütmek, çürümek, Bozmak"
+  },
+  {
+    "id": 1015,
+    "en": "Decide",
+    "tr": "Karar Vermek, Kararlaştırmak"
+  },
+  {
+    "id": 1016,
+    "en": "Depend",
+    "tr": "Bağlı Olmak, Güvenmek"
+  },
+  {
+    "id": 1017,
+    "en": "Deprive",
+    "tr": "Mahrum Etmek, Yoksun Bırakmak"
+  },
+  {
+    "id": 1018,
+    "en": "Detect",
+    "tr": "Keşfetmek, Bulmak, Ortaya Çıkarmak"
+  },
+  {
+    "id": 1019,
+    "en": "Deteriorate",
+    "tr": "Kötüleşmek, Bozulmak, Bozmak"
+  },
+  {
+    "id": 1020,
+    "en": "Eliminate",
+    "tr": "Çıkarmak, Atmak, Elemek"
+  },
+  {
+    "id": 1021,
+    "en": "Eradicate",
+    "tr": "Kökünden Halletmek, Kökünü Kurutmak"
+  },
+  {
+    "id": 1022,
+    "en": "Estimate",
+    "tr": "Tahmin Etmek, Değer Biçmek"
+  },
+  {
+    "id": 1023,
+    "en": "Evaluate",
+    "tr": "Değerlendirmek, Değer Biçmek"
+  },
+  {
+    "id": 1024,
+    "en": "Foster",
+    "tr": "Beslemek, Büyütmek, Teşvik Etmek"
+  },
+  {
+    "id": 1025,
+    "en": "Heal",
+    "tr": "İyileşmek"
+  },
+  {
+    "id": 1026,
+    "en": "Hinder",
+    "tr": "Engel Olmak, Alıkoymak, Aksatmak"
+  },
+  {
+    "id": 1027,
+    "en": "Hurt",
+    "tr": "İncitmek"
+  },
+  {
+    "id": 1028,
+    "en": "Identify",
+    "tr": "Tanımak, Kimliğini Saptamak"
+  },
+  {
+    "id": 1029,
+    "en": "Ignite",
+    "tr": "Tutuşturmak, Yakmak, Ateşlemek"
+  },
+  {
+    "id": 1030,
+    "en": "Ignore",
+    "tr": "Önemsememek, Görmezden Gelmek"
+  },
+  {
+    "id": 1031,
+    "en": "Impair",
+    "tr": "Zarar Vermek, Zayıflatmak"
+  },
+  {
+    "id": 1032,
+    "en": "Implant",
+    "tr": "Nakletmek, Aklına Sokmak"
+  },
+  {
+    "id": 1033,
+    "en": "Improve",
+    "tr": "Geliştirmek, İyileştirmek, İlerletmek"
+  },
+  {
+    "id": 1034,
+    "en": "Include",
+    "tr": "Dâhil Etmek, Kapsamak"
+  },
+  {
+    "id": 1035,
+    "en": "Overcome",
+    "tr": "Başa Çıkmak, Üstesinden Gelmek"
+  },
+  {
+    "id": 1036,
+    "en": "Perceive",
+    "tr": "Algılamak, Hissetmek, Sezmek"
+  },
+  {
+    "id": 1037,
+    "en": "Prevent",
+    "tr": "Önlemek, Engel Olmak"
+  },
+  {
+    "id": 1038,
+    "en": "Recognize",
+    "tr": "Tanımak, Farkına Varmak"
+  },
+  {
+    "id": 1039,
+    "en": "Recommend",
+    "tr": "Tavsiye Etmek, Önermek"
+  },
+  {
+    "id": 1040,
+    "en": "Recover",
+    "tr": "İyileşmek, Düzelmek, Toplamak"
+  },
+  {
+    "id": 1041,
+    "en": "Release",
+    "tr": "Serbest Bırakmak, Salıvermek"
+  },
+  {
+    "id": 1042,
+    "en": "Relieve",
+    "tr": "Rahatlatmak, Dindirmek, Hafifletmek"
+  },
+  {
+    "id": 1043,
+    "en": "Threaten",
+    "tr": "Tehdit Etmek"
+  },
+  {
+    "id": 1044,
+    "en": "Transform",
+    "tr": "Dönüştürmek, Haline Gelmek"
+  },
+  {
+    "id": 1045,
+    "en": "Transmit",
+    "tr": "Göndermek, Yaymak, İletmek"
+  },
+  {
+    "id": 1046,
+    "en": "Transplant",
+    "tr": "Nakletmek, Başka Yere Dikmek"
+  },
+  {
+    "id": 1047,
+    "en": "Trigger",
+    "tr": "Başlatmak, Neden Olmak"
+  },
+  {
+    "id": 1048,
+    "en": "Warn",
+    "tr": "Uyarmak, İkaz Etmek"
+  },
+  {
+    "id": 1049,
+    "en": "Waste",
+    "tr": "İsraf Etmek, Çarçur Etmek"
+  },
+  {
+    "id": 1050,
+    "en": "Withstand",
+    "tr": "Dayanmak, Direnmek, Karşı Koymak"
+  },
+  {
+    "id": 1051,
+    "en": "Abrupt",
+    "tr": "Beklenmedik, Ani, Sarp, Dik"
+  },
+  {
+    "id": 1052,
+    "en": "Absent",
+    "tr": "Yok, Bulunmayan, Devamsız"
+  },
+  {
+    "id": 1053,
+    "en": "Accessible",
+    "tr": "Ulaşılabilir, Girilebilir, Bulunur"
+  },
+  {
+    "id": 1054,
+    "en": "Accurate",
+    "tr": "Kesin, Doğru, Yanlışsız"
+  },
+  {
+    "id": 1055,
+    "en": "Ambiguous",
+    "tr": "Belirsiz, Müphem"
+  },
+  {
+    "id": 1056,
+    "en": "Apparent",
+    "tr": "Belli, Açık, Aşikâr, Ortada, Bariz"
+  },
+  {
+    "id": 1057,
+    "en": "Appropriate",
+    "tr": "Uygun, Yerinde"
+  },
+  {
+    "id": 1058,
+    "en": "Available",
+    "tr": "Müsait, Var, Mevcut"
+  },
+  {
+    "id": 1059,
+    "en": "Beneficial",
+    "tr": "Yararlı, Hayırlı, Faydalı"
+  },
+  {
+    "id": 1060,
+    "en": "Comprehensive",
+    "tr": "Etraflı, Geniş, Çok Yönlü"
+  },
+  {
+    "id": 1061,
+    "en": "Compulsory",
+    "tr": "Zorunlu, Mecburi, Zorlayıcı"
+  },
+  {
+    "id": 1062,
+    "en": "Conscious",
+    "tr": "Bilinçli, Farkında, Kasti"
+  },
+  {
+    "id": 1063,
+    "en": "Considerable",
+    "tr": "Önemli, Hatırı Sayılır Ölçüde"
+  },
+  {
+    "id": 1064,
+    "en": "Contagious",
+    "tr": "Bulaşıcı, Salgın, Hastalık Bulaştıran"
+  },
+  {
+    "id": 1065,
+    "en": "Contemporary",
+    "tr": "Çağdaş, Modern"
+  },
+  {
+    "id": 1066,
+    "en": "Controversial",
+    "tr": "Tartışmalı, Tartışmaya Yol Açan"
+  },
+  {
+    "id": 1067,
+    "en": "Desperate",
+    "tr": "Çaresiz, Umutsuz, Her Şeyi Göze Almış"
+  },
+  {
+    "id": 1068,
+    "en": "Detrimental",
+    "tr": "Zararlı"
+  },
+  {
+    "id": 1069,
+    "en": "Devastating",
+    "tr": "Ezici, Tahrip Edici, Yıkıcı"
+  },
+  {
+    "id": 1070,
+    "en": "Effective",
+    "tr": "Etkili, Etkileyici, Tesirli"
+  },
+  {
+    "id": 1071,
+    "en": "Familiar",
+    "tr": "Tanıdık, Aşina, Yaygın"
+  },
+  {
+    "id": 1072,
+    "en": "Fatal",
+    "tr": "Öldürücü, ölümcül, Ölümle Biten"
+  },
+  {
+    "id": 1073,
+    "en": "Hazardous",
+    "tr": "Tehlikeli, Riskli, şüpheli"
+  },
+  {
+    "id": 1074,
+    "en": "Identical",
+    "tr": "Aynı, Eş, Özdeş, Tıpkı"
+  },
+  {
+    "id": 1075,
+    "en": "Inadequate",
+    "tr": "Yetersiz, Eksik"
+  },
+  {
+    "id": 1076,
+    "en": "Inborn",
+    "tr": "Doğuştan, Doğal"
+  },
+  {
+    "id": 1077,
+    "en": "Intact",
+    "tr": "Dokunulmamış, El Değmemiş, Bozulmamış"
+  },
+  {
+    "id": 1078,
+    "en": "Intricate",
+    "tr": "Karışık, Karmakarışık"
+  },
+  {
+    "id": 1079,
+    "en": "Negligible",
+    "tr": "Önemsiz, İhmal Edilebilir"
+  },
+  {
+    "id": 1080,
+    "en": "Obvious",
+    "tr": "Açık, Besbelli, Apaçık"
+  },
+  {
+    "id": 1081,
+    "en": "Previous",
+    "tr": "Önceki, Eski, Evvelki"
+  },
+  {
+    "id": 1082,
+    "en": "Profound",
+    "tr": "Derin, Çok Derin"
+  },
+  {
+    "id": 1083,
+    "en": "Rare",
+    "tr": "Nadir, Ender"
+  },
+  {
+    "id": 1084,
+    "en": "Relevant",
+    "tr": "Konu İle İlgili, Alâkalı, Uygun"
+  },
+  {
+    "id": 1085,
+    "en": "Reluctant",
+    "tr": "İsteksiz, Gönülsüz, Ağırdan Alan"
+  },
+  {
+    "id": 1086,
+    "en": "Remarkable",
+    "tr": "Dikkat Çekici, Göze çarpan"
+  },
+  {
+    "id": 1087,
+    "en": "Reverse",
+    "tr": "Ters, Zıt, Karşıt, Aksi"
+  },
+  {
+    "id": 1088,
+    "en": "Scarce",
+    "tr": "Kıt, Zor Bulunur, Az Bulunur"
+  },
+  {
+    "id": 1089,
+    "en": "Severe",
+    "tr": "Ağır, Acı, Şiddetli, Ciddi"
+  },
+  {
+    "id": 1090,
+    "en": "Similar",
+    "tr": "Benzer, Benzeyen"
+  },
+  {
+    "id": 1091,
+    "en": "Simultaneous",
+    "tr": "Eşzamanlı, Aynı Zamanda Olan"
+  },
+  {
+    "id": 1092,
+    "en": "Stagnant",
+    "tr": "Durgun, Hareketsiz, Tembel"
+  },
+  {
+    "id": 1093,
+    "en": "Subtle",
+    "tr": "Hoş, Tatlı, İnce, incelikli"
+  },
+  {
+    "id": 1094,
+    "en": "Thorough",
+    "tr": "Tam, Eksiksiz, Kusursuz"
+  },
+  {
+    "id": 1095,
+    "en": "Trivial",
+    "tr": "Küçük, Değersiz, Önemsiz"
+  },
+  {
+    "id": 1096,
+    "en": "Unique",
+    "tr": "Eşsiz, Tek, Benzersiz, Biricik"
+  },
+  {
+    "id": 1097,
+    "en": "Vague",
+    "tr": "Belirsiz, Hayal Meyal, Anlaşılmaz"
+  },
+  {
+    "id": 1098,
+    "en": "Valid",
+    "tr": "Geçerli, Geçer, Yürürlükte"
+  },
+  {
+    "id": 1099,
+    "en": "Vital",
+    "tr": "Hayati, Çok Önemli"
+  },
+  {
+    "id": 1100,
+    "en": "Vulnerable",
+    "tr": "Yaralanabilir, Kolay İncinir, Savunmasız"
+  },
+  {
+    "id": 1101,
+    "en": "Accidentally",
+    "tr": "Kazara, Tesadüfen"
+  },
+  {
+    "id": 1102,
+    "en": "Apparently",
+    "tr": "Görünüşe Göre, Anlaşılan"
+  },
+  {
+    "id": 1103,
+    "en": "Approximately",
+    "tr": "Yaklaşık Olarak"
+  },
+  {
+    "id": 1104,
+    "en": "Completely",
+    "tr": "Tam Olarak, Tamamıyla, Bütünüyle"
+  },
+  {
+    "id": 1105,
+    "en": "Consciously",
+    "tr": "Bile Bile, Bilinçli Olarak, Kasten"
+  },
+  {
+    "id": 1106,
+    "en": "Consequently",
+    "tr": "Sonuç Olarak, Bu Nedenle"
+  },
+  {
+    "id": 1107,
+    "en": "Considerably",
+    "tr": "Oldukça, Epеусе"
+  },
+  {
+    "id": 1108,
+    "en": "Deliberately",
+    "tr": "Kasten, Kasıtlı Olarak"
+  },
+  {
+    "id": 1109,
+    "en": "Elaborately",
+    "tr": "Detaylı Bir Şekilde"
+  },
+  {
+    "id": 1110,
+    "en": "Eligibly",
+    "tr": "Uygun Bir Şekilde"
+  },
+  {
+    "id": 1111,
+    "en": "Equally",
+    "tr": "Eşit Olarak"
+  },
+  {
+    "id": 1112,
+    "en": "Especially",
+    "tr": "Özellikle, Bilhassa"
+  },
+  {
+    "id": 1113,
+    "en": "Evenly",
+    "tr": "Eşit Olarak, Başa Baş Olarak"
+  },
+  {
+    "id": 1114,
+    "en": "Eventually",
+    "tr": "Sonunda, En Sonunda"
+  },
+  {
+    "id": 1115,
+    "en": "Exclusively",
+    "tr": "Özellikle, Sadece, Yalnız"
+  },
+  {
+    "id": 1116,
+    "en": "Extensively",
+    "tr": "Yaygın Olarak, Geniş Olarak"
+  },
+  {
+    "id": 1117,
+    "en": "Gradually",
+    "tr": "Azar Azar, Derece Derece, Gitgide"
+  },
+  {
+    "id": 1118,
+    "en": "Immediately",
+    "tr": "Hemen, Derhal"
+  },
+  {
+    "id": 1119,
+    "en": "Immensely",
+    "tr": "Çok Fazla"
+  },
+  {
+    "id": 1120,
+    "en": "Incidentally",
+    "tr": "Kazara, Tesadüfen"
+  },
+  {
+    "id": 1121,
+    "en": "Obscurely",
+    "tr": "Anlaşılmaz Şekilde"
+  },
+  {
+    "id": 1122,
+    "en": "Overtly",
+    "tr": "Açık Şekilde"
+  },
+  {
+    "id": 1123,
+    "en": "Particularly",
+    "tr": "Ayrıntılı Olarak, Özellikle"
+  },
+  {
+    "id": 1124,
+    "en": "Permanently",
+    "tr": "Daimi Olarak, Temelli Olarak"
+  },
+  {
+    "id": 1125,
+    "en": "Prematurely",
+    "tr": "Erken, Zamanından Önce"
+  },
+  {
+    "id": 1126,
+    "en": "Promptly",
+    "tr": "Derhal, Hemen"
+  },
+  {
+    "id": 1127,
+    "en": "Properly",
+    "tr": "Uygun Bir Şekilde"
+  },
+  {
+    "id": 1128,
+    "en": "Randomly",
+    "tr": "Rastgele"
+  },
+  {
+    "id": 1129,
+    "en": "Rapidly",
+    "tr": "Süratle, Hızla, Çarçabuk"
+  },
+  {
+    "id": 1130,
+    "en": "Recently",
+    "tr": "Son Zamanlarda"
+  },
+  {
+    "id": 1131,
+    "en": "Recklessly",
+    "tr": "Umursamazca"
+  },
+  {
+    "id": 1132,
+    "en": "Reluctantly",
+    "tr": "İstemeden, İsteksiz Olarak"
+  },
+  {
+    "id": 1133,
+    "en": "Remarkably",
+    "tr": "Dikkate Değer Şekilde"
+  },
+  {
+    "id": 1134,
+    "en": "Respectively",
+    "tr": "Sırasıyla, Sırayla"
+  },
+  {
+    "id": 1135,
+    "en": "Simultaneously",
+    "tr": "Eş Zamanlı Olarak"
+  },
+  {
+    "id": 1136,
+    "en": "Slightly",
+    "tr": "Belli Belirsiz, Çok Az"
+  },
+  {
+    "id": 1137,
+    "en": "Suddenly",
+    "tr": "Birdenbire, Aniden"
+  },
+  {
+    "id": 1138,
+    "en": "Sufficiently",
+    "tr": "Yeterli Olarak"
+  },
+  {
+    "id": 1139,
+    "en": "Supposedly",
+    "tr": "Sözümona, Sözde, Söylendiğine Göre"
+  },
+  {
+    "id": 1140,
+    "en": "Suspiciously",
+    "tr": "Kuşkuyla, şüpheyle"
+  },
+  {
+    "id": 1141,
+    "en": "Addiction",
+    "tr": "Bağımlılık"
+  },
+  {
+    "id": 1142,
+    "en": "Aim",
+    "tr": "Amaç, Gaye, Emel"
+  },
+  {
+    "id": 1143,
+    "en": "Amplification",
+    "tr": "Büyütme, Genişletme, Yükseltilme"
+  },
+  {
+    "id": 1144,
+    "en": "Anticipation",
+    "tr": "Bekleme, Umma, Beklenti"
+  },
+  {
+    "id": 1145,
+    "en": "Assessment",
+    "tr": "Değerlendirme"
+  },
+  {
+    "id": 1146,
+    "en": "Association",
+    "tr": "Birleşme, Ortaklık, İşbirliği, Dernek"
+  },
+  {
+    "id": 1147,
+    "en": "Coincidence",
+    "tr": "Denk Gelme, Tesadüf, Rastlantı"
+  },
+  {
+    "id": 1148,
+    "en": "Compatibility",
+    "tr": "Uygunluk, Bağdaşma"
+  },
+  {
+    "id": 1149,
+    "en": "Compensation",
+    "tr": "Tazminat, Telafi"
+  },
+  {
+    "id": 1150,
+    "en": "Competition",
+    "tr": "Yarışma, Rekabet"
+  },
+  {
+    "id": 1151,
+    "en": "Complication",
+    "tr": "Karmaşa, Zorluk"
+  },
+  {
+    "id": 1152,
+    "en": "Disaster",
+    "tr": "Felaket"
+  },
+  {
+    "id": 1153,
+    "en": "Discrimination",
+    "tr": "Ayrıcalık Yapma, Fark Gözetme"
+  },
+  {
+    "id": 1154,
+    "en": "Disruption",
+    "tr": "Kesilme, Bozulma, Parçalanma"
+  },
+  {
+    "id": 1155,
+    "en": "Distribution",
+    "tr": "Dağıtım, Dağılım, Yayılma"
+  },
+  {
+    "id": 1156,
+    "en": "Diversity",
+    "tr": "Farklılık, Başkalık, Çeşitlilik"
+  },
+  {
+    "id": 1157,
+    "en": "Division",
+    "tr": "Bölme, Ayırma"
+  },
+  {
+    "id": 1158,
+    "en": "Effect",
+    "tr": "Etki, Tesir, Netice"
+  },
+  {
+    "id": 1159,
+    "en": "Effort",
+    "tr": "Çaba, Gayret, Girişim"
+  },
+  {
+    "id": 1160,
+    "en": "Endurance",
+    "tr": "Dayanma, Sabır, Tahammül"
+  },
+  {
+    "id": 1161,
+    "en": "Enforcement",
+    "tr": "Zorlama, Uygulama, Yürürlüğe Koyma"
+  },
+  {
+    "id": 1162,
+    "en": "Enquiry",
+    "tr": "Soruşturma, Sorgu, Soru"
+  },
+  {
+    "id": 1163,
+    "en": "Evacuation",
+    "tr": "Tahliye, Ayırılma"
+  },
+  {
+    "id": 1164,
+    "en": "Examination",
+    "tr": "İnceleme, Muayene, Sınav"
+  },
+  {
+    "id": 1165,
+    "en": "Evidence",
+    "tr": "Tanık, Delil, Kanıt"
+  },
+  {
+    "id": 1166,
+    "en": "Exclusion",
+    "tr": "Hariç Tutma, Dışında Bırakma"
+  },
+  {
+    "id": 1167,
+    "en": "Exposure",
+    "tr": "Maruz Kalma, Bırakma"
+  },
+  {
+    "id": 1168,
+    "en": "Extinction",
+    "tr": "Soyunun Tükenmesi"
+  },
+  {
+    "id": 1169,
+    "en": "Implementation",
+    "tr": "Uygulama"
+  },
+  {
+    "id": 1170,
+    "en": "Implication",
+    "tr": "İma, Sonuç, Çıkarım"
+  },
+  {
+    "id": 1171,
+    "en": "Improvement",
+    "tr": "İlerleme, Gelişme"
+  },
+  {
+    "id": 1172,
+    "en": "Incentive",
+    "tr": "Teşvik, Dürtü"
+  },
+  {
+    "id": 1173,
+    "en": "Obstacle",
+    "tr": "Engel, Mani"
+  },
+  {
+    "id": 1174,
+    "en": "Recovery",
+    "tr": "Kurtulma, Atlatma"
+  },
+  {
+    "id": 1175,
+    "en": "Prevalence",
+    "tr": "Yaygınlık"
+  },
+  {
+    "id": 1176,
+    "en": "Prevention",
+    "tr": "Önlem"
+  },
+  {
+    "id": 1177,
+    "en": "Priority",
+    "tr": "Öncelik, Üstünlük"
+  },
+  {
+    "id": 1178,
+    "en": "Proliferation",
+    "tr": "Çoğalma, Üreme, Yaygınlaşma"
+  },
+  {
+    "id": 1179,
+    "en": "Revealing",
+    "tr": "Açığa Çıkarma"
+  },
+  {
+    "id": 1180,
+    "en": "Validation",
+    "tr": "Tasdik, Onaylama"
+  },
+  {
+    "id": 1181,
+    "en": "Account For",
+    "tr": "Açıklamak, İzahat Etmek, Sorumlu Olmak"
+  },
+  {
+    "id": 1182,
+    "en": "Adhere To",
+    "tr": "Bağlı Kalmak, Sadık Kalmak"
+  },
+  {
+    "id": 1183,
+    "en": "Align With",
+    "tr": "...İle Uygun/Uyumlu Hale Gelmek"
+  },
+  {
+    "id": 1184,
+    "en": "Back Up",
+    "tr": "Desteklemek, Arka Çıkmak, Yedeklemek"
+  },
+  {
+    "id": 1185,
+    "en": "Benefit From",
+    "tr": "...Den Faydalanmak"
+  },
+  {
+    "id": 1186,
+    "en": "Break Into",
+    "tr": "Zorla İçeri Girmek, Soymak"
+  },
+  {
+    "id": 1187,
+    "en": "Call Off",
+    "tr": "İptal Etmek"
+  },
+  {
+    "id": 1188,
+    "en": "Carry Out",
+    "tr": "Yerine Getirmek, Uygulamak"
+  },
+  {
+    "id": 1189,
+    "en": "Catch Up",
+    "tr": "Yakalamak"
+  },
+  {
+    "id": 1190,
+    "en": "Carry On",
+    "tr": "Devam Etmek"
+  },
+  {
+    "id": 1191,
+    "en": "Come Down With",
+    "tr": "Hastalığa Yakalanmak, Yatağa Düşmek"
+  },
+  {
+    "id": 1192,
+    "en": "Come Up With",
+    "tr": "Bulmak (Fikir vb.), İleri Sürmek"
+  },
+  {
+    "id": 1193,
+    "en": "Compensate For",
+    "tr": "Telafi Etmek"
+  },
+  {
+    "id": 1194,
+    "en": "Cope With",
+    "tr": "Üstesinden Gelmek, Baş Etmek, Ele Almak"
+  },
+  {
+    "id": 1195,
+    "en": "Cut Down",
+    "tr": "Kısmak, Azaltmak"
+  },
+  {
+    "id": 1196,
+    "en": "Deprive Of",
+    "tr": "Mahrum Etmek, Yoksun Bırakmak"
+  },
+  {
+    "id": 1197,
+    "en": "Derive From",
+    "tr": "Den Türemek, Den Kaynaklanmak"
+  },
+  {
+    "id": 1198,
+    "en": "Dispose Of",
+    "tr": "Elden Çıkarmak, Den Kurtulmak"
+  },
+  {
+    "id": 1199,
+    "en": "Embark On",
+    "tr": "Girişmek, Kalkışmak"
+  },
+  {
+    "id": 1200,
+    "en": "End Up",
+    "tr": "Bitmek, Sonuçlanmak, Kalmak"
+  },
+  {
+    "id": 1201,
+    "en": "Fade Away",
+    "tr": "Solup Gitmek, Yok Olmak, Ortadan Kaybol"
+  },
+  {
+    "id": 1202,
+    "en": "Find Out",
+    "tr": "Anlamak, Çözmek, Bulmak"
+  },
+  {
+    "id": 1203,
+    "en": "Get Over",
+    "tr": "Atlatmak, Üstesinden Gelmek, Başa Çıkma"
+  },
+  {
+    "id": 1204,
+    "en": "Get Rid Of",
+    "tr": "Kurtulmak"
+  },
+  {
+    "id": 1205,
+    "en": "Get Through",
+    "tr": "Zor Bir Zaman Geçirmek"
+  },
+  {
+    "id": 1206,
+    "en": "Give Off",
+    "tr": "Koku vb. Yaymak"
+  },
+  {
+    "id": 1207,
+    "en": "Give Up",
+    "tr": "Bırakmak, Vazgeçmek"
+  },
+  {
+    "id": 1208,
+    "en": "Hand In",
+    "tr": "Vermek, Teslim Etmek"
+  },
+  {
+    "id": 1209,
+    "en": "Hold On",
+    "tr": "Beklemek, Tutmak"
+  },
+  {
+    "id": 1210,
+    "en": "Keep Off",
+    "tr": "Uzak Durmak, Yaklaşmamak"
+  },
+  {
+    "id": 1211,
+    "en": "Lie In",
+    "tr": "E Dayanmak, Den Kaynaklanmak"
+  },
+  {
+    "id": 1212,
+    "en": "Pass Away",
+    "tr": "Ölmek, Yok Olmak"
+  },
+  {
+    "id": 1213,
+    "en": "Pass Down",
+    "tr": "Nesilden Nesile Geçmek"
+  },
+  {
+    "id": 1214,
+    "en": "Point Out",
+    "tr": "Belirtmek, İşaret Etmek, Göstermek"
+  },
+  {
+    "id": 1215,
+    "en": "Pull Through",
+    "tr": "İyileşmek, İyileştirmek"
+  },
+  {
+    "id": 1216,
+    "en": "Put Aside",
+    "tr": "Askıya Almak, Ertelemek"
+  },
+  {
+    "id": 1217,
+    "en": "Put Forward",
+    "tr": "İleri Sürmek, Ortaya Atmak"
+  },
+  {
+    "id": 1218,
+    "en": "Put Up With",
+    "tr": "Katlanmak"
+  },
+  {
+    "id": 1219,
+    "en": "Turn Down",
+    "tr": "Geri Çevirmek, Reddetmek"
+  },
+  {
+    "id": 1220,
+    "en": "Ward Off",
+    "tr": "Uzaklaştırmak, Defetmek, Engellemek"
+  },
+  {
+    "id": 1221,
+    "en": "Coordinate",
+    "tr": "koordine etmek, düzenlemek"
+  },
+  {
+    "id": 1222,
+    "en": "Acknowledge",
+    "tr": "kabul etmek, tanımak"
+  },
+  {
+    "id": 1223,
+    "en": "Criticize",
+    "tr": "eleştirmek"
+  },
+  {
+    "id": 1224,
+    "en": "Define",
+    "tr": "tanımlamak"
+  },
+  {
+    "id": 1225,
+    "en": "Demonstrate",
+    "tr": "göstermek, kanıtlamak"
+  },
+  {
+    "id": 1226,
+    "en": "Acquire",
+    "tr": "elde etmek, kazanmak"
+  },
+  {
+    "id": 1227,
+    "en": "Adapt",
+    "tr": "uyarlamak, adapte olmak"
+  },
+  {
+    "id": 1228,
+    "en": "Alter",
+    "tr": "değiştirmek"
+  },
+  {
+    "id": 1229,
+    "en": "Anticipate",
+    "tr": "beklemek, ummak"
+  },
+  {
+    "id": 1230,
+    "en": "Assess",
+    "tr": "değerlendirmek"
+  },
+  {
+    "id": 1231,
+    "en": "Assume",
+    "tr": "varsaymak"
+  },
+  {
+    "id": 1232,
+    "en": "Clarify",
+    "tr": "açıklığa kavuşturmak"
+  },
+  {
+    "id": 1233,
+    "en": "Classify",
+    "tr": "sınıflandırmak"
+  },
+  {
+    "id": 1234,
+    "en": "Collaborate",
+    "tr": "iş birliği yapmak"
+  },
+  {
+    "id": 1235,
+    "en": "Combine",
+    "tr": "birleştirmek"
+  },
+  {
+    "id": 1236,
+    "en": "Communicate",
+    "tr": "iletişim kurmak"
+  },
+  {
+    "id": 1237,
+    "en": "Compensate",
+    "tr": "telafi etmek, karşılamak"
+  },
+  {
+    "id": 1238,
+    "en": "Compile",
+    "tr": "derlemek"
+  },
+  {
+    "id": 1239,
+    "en": "Conclude",
+    "tr": "sonuçlandırmak"
+  },
+  {
+    "id": 1240,
+    "en": "Confront",
+    "tr": "yüzleşmek, karşı karşıya gelmek"
+  },
+  {
+    "id": 1241,
+    "en": "Consent",
+    "tr": "razı olmak, izin vermek"
+  },
+  {
+    "id": 1242,
+    "en": "Constitute",
+    "tr": "oluşturmak"
+  },
+  {
+    "id": 1243,
+    "en": "Contradict",
+    "tr": "çelişmek"
+  },
+  {
+    "id": 1244,
+    "en": "Contribute",
+    "tr": "katkıda bulunmak"
+  },
+  {
+    "id": 1245,
+    "en": "Convince",
+    "tr": "ikna etmek"
+  },
+  {
+    "id": 1246,
+    "en": "Differentiate",
+    "tr": "ayırt etmek"
+  },
+  {
+    "id": 1247,
+    "en": "Distribute",
+    "tr": "dağıtmak"
+  },
+  {
+    "id": 1248,
+    "en": "Emphasize",
+    "tr": "vurgulamak"
+  },
+  {
+    "id": 1249,
+    "en": "Enhance",
+    "tr": "geliştirmek, artırmak"
+  },
+  {
+    "id": 1250,
+    "en": "Ensure",
+    "tr": "sağlamak, garantiye almak"
+  },
+  {
+    "id": 1251,
+    "en": "Estimate",
+    "tr": "tahmin etmek"
+  },
+  {
+    "id": 1252,
+    "en": "Expand",
+    "tr": "genişletmek"
+  },
+  {
+    "id": 1253,
+    "en": "Explore",
+    "tr": "keşfetmek"
+  },
+  {
+    "id": 1254,
+    "en": "Formulate",
+    "tr": "formüle etmek"
+  },
+  {
+    "id": 1255,
+    "en": "Generate",
+    "tr": "üretmek, oluşturmak"
+  },
+  {
+    "id": 1256,
+    "en": "Identify",
+    "tr": "tanımlamak, belirlemek"
+  },
+  {
+    "id": 1257,
+    "en": "Illustrate",
+    "tr": "örneklemek, resimlemek"
+  },
+  {
+    "id": 1258,
+    "en": "Implement",
+    "tr": "uygulamak"
+  },
+  {
+    "id": 1259,
+    "en": "Indicate",
+    "tr": "belirtmek, göstermek"
+  },
+  {
+    "id": 1260,
+    "en": "Incorporate",
+    "tr": "dahil etmek"
+  },
+  {
+    "id": 1261,
+    "en": "Interpret",
+    "tr": "yorumlamak"
+  },
+  {
+    "id": 1262,
+    "en": "Justify",
+    "tr": "gerekçelendirmek"
+  },
+  {
+    "id": 1263,
+    "en": "Maintain",
+    "tr": "sürdürmek, korumak"
+  },
+  {
+    "id": 1264,
+    "en": "Negotiate",
+    "tr": "müzakere etmek"
+  },
+  {
+    "id": 1265,
+    "en": "Obtain",
+    "tr": "elde etmek"
+  },
+  {
+    "id": 1266,
+    "en": "Propose",
+    "tr": "önermek"
+  },
+  {
+    "id": 1267,
+    "en": "Recommend",
+    "tr": "tavsiye etmek"
+  },
+  {
+    "id": 1268,
+    "en": "Reflect",
+    "tr": "yansıtmak"
+  },
+  {
+    "id": 1269,
+    "en": "Specify",
+    "tr": "belirtmek"
+  },
+  {
+    "id": 1270,
+    "en": "Mimic",
+    "tr": "Taklit etmek"
+  },
+  {
+    "id": 1271,
+    "en": "Accomplish",
+    "tr": "başarmak, yerine getirmek"
+  },
+  {
+    "id": 1272,
+    "en": "Accumulate",
+    "tr": "biriktirmek, toplamak"
+  },
+  {
+    "id": 1273,
+    "en": "Address",
+    "tr": "ele almak, hitap etmek"
+  },
+  {
+    "id": 1274,
+    "en": "Allocate",
+    "tr": "tahsis etmek, ayırmak"
+  },
+  {
+    "id": 1275,
+    "en": "Amend",
+    "tr": "düzeltmek, değiştirmek"
+  },
+  {
+    "id": 1276,
+    "en": "Analyze",
+    "tr": "analiz etmek, incelemek"
+  },
+  {
+    "id": 1277,
+    "en": "Appeal",
+    "tr": "başvurmak, cazip gelmek"
+  },
+  {
+    "id": 1278,
+    "en": "Appreciate",
+    "tr": "takdir etmek, anlamak"
+  },
+  {
+    "id": 1279,
+    "en": "Approach",
+    "tr": "yaklaşmak"
+  },
+  {
+    "id": 1280,
+    "en": "Arise",
+    "tr": "ortaya çıkmak"
+  },
+  {
+    "id": 1281,
+    "en": "Assure",
+    "tr": "temin etmek, garanti etmek"
+  },
+  {
+    "id": 1282,
+    "en": "Authorize",
+    "tr": "yetkilendirmek, izin vermek"
+  },
+  {
+    "id": 1283,
+    "en": "Balance",
+    "tr": "dengelemek"
+  },
+  {
+    "id": 1284,
+    "en": "Broaden",
+    "tr": "genişletmek"
+  },
+  {
+    "id": 1285,
+    "en": "Categorize",
+    "tr": "kategorize etmek"
+  },
+  {
+    "id": 1286,
+    "en": "Claim",
+    "tr": "iddia etmek"
+  },
+  {
+    "id": 1287,
+    "en": "Compel",
+    "tr": "zorlamak, mecbur bırakmak"
+  },
+  {
+    "id": 1288,
+    "en": "Comprehend",
+    "tr": "anlamak, kavramak"
+  },
+  {
+    "id": 1289,
+    "en": "Conclude",
+    "tr": "sonuca varmak"
+  },
+  {
+    "id": 1290,
+    "en": "Consult",
+    "tr": "danışmak"
+  },
+  {
+    "id": 1291,
+    "en": "Convey",
+    "tr": "iletmek, taşımak"
+  },
+  {
+    "id": 1292,
+    "en": "Debate",
+    "tr": "tartışmak"
+  },
+  {
+    "id": 1293,
+    "en": "Dedicate",
+    "tr": "adamak"
+  },
+  {
+    "id": 1294,
+    "en": "Delegate",
+    "tr": "devretmek, yetki vermek"
+  },
+  {
+    "id": 1295,
+    "en": "Designate",
+    "tr": "atamak, belirlemek"
+  },
+  {
+    "id": 1296,
+    "en": "Determine",
+    "tr": "belirlemek, saptamak"
+  },
+  {
+    "id": 1297,
+    "en": "Devise",
+    "tr": "tasarlamak, icat etmek"
+  },
+  {
+    "id": 1298,
+    "en": "Distort",
+    "tr": "çarpıtmak, bozmak"
+  },
+  {
+    "id": 1299,
+    "en": "Divert",
+    "tr": "yönlendirmek, saptırmak"
+  },
+  {
+    "id": 1300,
+    "en": "Dominate",
+    "tr": "egemen olmak, hükmetmek"
+  },
+  {
+    "id": 1301,
+    "en": "Elaborate",
+    "tr": "ayrıntılandırmak"
+  },
+  {
+    "id": 1302,
+    "en": "Encourage",
+    "tr": "cesaretlendirmek, teşvik etmek"
+  },
+  {
+    "id": 1303,
+    "en": "Endorse",
+    "tr": "onaylamak, desteklemek"
+  },
+  {
+    "id": 1304,
+    "en": "Engage",
+    "tr": "dahil olmak, meşgul olmak"
+  },
+  {
+    "id": 1305,
+    "en": "Enquire",
+    "tr": "sormak, soruşturmak"
+  },
+  {
+    "id": 1306,
+    "en": "Exceed",
+    "tr": "aşmak"
+  },
+  {
+    "id": 1307,
+    "en": "Facilitate",
+    "tr": "kolaylaştırmak"
+  },
+  {
+    "id": 1308,
+    "en": "Fluctuate",
+    "tr": "dalgalanmak"
+  },
+  {
+    "id": 1309,
+    "en": "Foster",
+    "tr": "teşvik etmek, büyütmek"
+  },
+  {
+    "id": 1310,
+    "en": "Inhibit",
+    "tr": "engellemek, durdurmak"
+  },
+  {
+    "id": 1311,
+    "en": "Integrate",
+    "tr": "birleştirmek, entegre etmek"
+  },
+  {
+    "id": 1312,
+    "en": "Intervene",
+    "tr": "müdahale etmek, araya girmek"
+  },
+  {
+    "id": 1313,
+    "en": "Isolate",
+    "tr": "izole etmek, ayırmak"
+  },
+  {
+    "id": 1314,
+    "en": "Lessen",
+    "tr": "azaltmak"
+  },
+  {
+    "id": 1315,
+    "en": "Mitigate",
+    "tr": "hafifletmek"
+  },
+  {
+    "id": 1316,
+    "en": "Monitor",
+    "tr": "izlemek, denetlemek"
+  },
+  {
+    "id": 1317,
+    "en": "Neglect",
+    "tr": "ihmal etmek"
+  },
+  {
+    "id": 1318,
+    "en": "Optimize",
+    "tr": "optimize etmek, en iyi hale getirmek"
+  },
+  {
+    "id": 1319,
+    "en": "Abnormality",
+    "tr": "Anormallik"
+  },
+  {
+    "id": 1320,
+    "en": "Acquisition",
+    "tr": "Edinim"
+  },
+  {
+    "id": 1321,
+    "en": "Adaptation",
+    "tr": "Uyum"
+  },
+  {
+    "id": 1322,
+    "en": "Administration",
+    "tr": "Vurma/Verme"
+  },
+  {
+    "id": 1323,
+    "en": "Advancement",
+    "tr": "İlerleme"
+  },
+  {
+    "id": 1324,
+    "en": "Ailment",
+    "tr": "Hastalık"
+  },
+  {
+    "id": 1325,
+    "en": "Alignment",
+    "tr": "Dizilim"
+  },
+  {
+    "id": 1326,
+    "en": "Alteration",
+    "tr": "Değişiklik"
+  },
+  {
+    "id": 1327,
+    "en": "Analysis",
+    "tr": "Analiz"
+  },
+  {
+    "id": 1328,
+    "en": "Application",
+    "tr": "Uygulama"
+  },
+  {
+    "id": 1329,
+    "en": "Association",
+    "tr": "İlişki"
+  },
+  {
+    "id": 1330,
+    "en": "Calculation",
+    "tr": "Hesaplama"
+  },
+  {
+    "id": 1331,
+    "en": "Collaboration",
+    "tr": "İşbirliği"
+  },
+  {
+    "id": 1332,
+    "en": "Compliance",
+    "tr": "Uyum"
+  },
+  {
+    "id": 1333,
+    "en": "Complication",
+    "tr": "Komplikasyon"
+  },
+  {
+    "id": 1334,
+    "en": "Constituent",
+    "tr": "Ana Bileşen"
+  },
+  {
+    "id": 1335,
+    "en": "Contribution",
+    "tr": "Katkı"
+  },
+  {
+    "id": 1336,
+    "en": "Correlation",
+    "tr": "Korelasyon"
+  },
+  {
+    "id": 1337,
+    "en": "Detection",
+    "tr": "Tespit"
+  },
+  {
+    "id": 1338,
+    "en": "Deviation",
+    "tr": "Sapma"
+  },
+  {
+    "id": 1339,
+    "en": "Deterioration",
+    "tr": "Bozulma"
+  },
+  {
+    "id": 1340,
+    "en": "Diagnosis",
+    "tr": "Teşhis"
+  },
+  {
+    "id": 1341,
+    "en": "Derivation",
+    "tr": "Türetme"
+  },
+  {
+    "id": 1342,
+    "en": "Digression",
+    "tr": "Sapma"
+  },
+  {
+    "id": 1343,
+    "en": "Disposition",
+    "tr": "Eğilim"
+  },
+  {
+    "id": 1344,
+    "en": "Discrimination",
+    "tr": "Ayrımcılık"
+  },
+  {
+    "id": 1345,
+    "en": "Dissection",
+    "tr": "Diseksiyon"
+  },
+  {
+    "id": 1346,
+    "en": "Dissemination",
+    "tr": "Yayılım"
+  },
+  {
+    "id": 1347,
+    "en": "Distribution",
+    "tr": "Dağıtım"
+  },
+  {
+    "id": 1348,
+    "en": "Duration",
+    "tr": "Süre"
+  },
+  {
+    "id": 1349,
+    "en": "Efficiency",
+    "tr": "Verimlilik"
+  },
+  {
+    "id": 1350,
+    "en": "Equilibrium",
+    "tr": "Denge"
+  },
+  {
+    "id": 1351,
+    "en": "Eradication",
+    "tr": "Ortadan kaldırma"
+  },
+  {
+    "id": 1352,
+    "en": "Evaluation",
+    "tr": "Değerlendirme"
+  },
+  {
+    "id": 1353,
+    "en": "Examination",
+    "tr": "Muayene"
+  },
+  {
+    "id": 1354,
+    "en": "Expansion",
+    "tr": "Genişleme"
+  },
+  {
+    "id": 1355,
+    "en": "Expectation",
+    "tr": "Beklenti"
+  },
+  {
+    "id": 1356,
+    "en": "Exploitation",
+    "tr": "İstismar"
+  },
+  {
+    "id": 1357,
+    "en": "Exposure",
+    "tr": "Maruz kalma"
+  },
+  {
+    "id": 1358,
+    "en": "Extraction",
+    "tr": "Çıkarma"
+  },
+  {
+    "id": 1359,
+    "en": "Extension",
+    "tr": "Uzatma"
+  },
+  {
+    "id": 1360,
+    "en": "Factor",
+    "tr": "Faktör"
+  },
+  {
+    "id": 1361,
+    "en": "Failure",
+    "tr": "Başarısızlık"
+  },
+  {
+    "id": 1362,
+    "en": "Feasibility",
+    "tr": "Uygulanabilirlik"
+  },
+  {
+    "id": 1363,
+    "en": "Function",
+    "tr": "Fonksiyon"
+  },
+  {
+    "id": 1364,
+    "en": "Fulfillment",
+    "tr": "Yerine getirme"
+  },
+  {
+    "id": 1365,
+    "en": "Humidity",
+    "tr": "Nem"
+  },
+  {
+    "id": 1366,
+    "en": "Hypothesis",
+    "tr": "Hipotez"
+  },
+  {
+    "id": 1367,
+    "en": "Identification",
+    "tr": "Tanımlama"
+  },
+  {
+    "id": 1368,
+    "en": "Impact",
+    "tr": "Etki"
+  },
+  {
+    "id": 1369,
+    "en": "Incidence",
+    "tr": "Görülme sıklığı"
+  },
+  {
+    "id": 1370,
+    "en": "Indication",
+    "tr": "Belirti"
+  },
+  {
+    "id": 1371,
+    "en": "Influence",
+    "tr": "Etki"
+  },
+  {
+    "id": 1372,
+    "en": "Inclination",
+    "tr": "Eğilim"
+  },
+  {
+    "id": 1373,
+    "en": "Incorporation",
+    "tr": "Uyarlamak/kullanmak"
+  },
+  {
+    "id": 1374,
+    "en": "Infancy",
+    "tr": "Bebeklik"
+  },
+  {
+    "id": 1375,
+    "en": "Infection",
+    "tr": "Enfeksiyon"
+  },
+  {
+    "id": 1376,
+    "en": "Insertion",
+    "tr": "Ekleme"
+  },
+  {
+    "id": 1377,
+    "en": "Intervention",
+    "tr": "Müdahale"
+  },
+  {
+    "id": 1378,
+    "en": "Justification",
+    "tr": "Gerekçe"
+  },
+  {
+    "id": 1379,
+    "en": "Knowledge",
+    "tr": "Bilgi"
+  },
+  {
+    "id": 1380,
+    "en": "Maintenance",
+    "tr": "Bakım"
+  },
+  {
+    "id": 1381,
+    "en": "Management",
+    "tr": "Yönetim"
+  },
+  {
+    "id": 1382,
+    "en": "Manifestation",
+    "tr": "Belirti"
+  },
+  {
+    "id": 1383,
+    "en": "Maturity",
+    "tr": "Olgunluk"
+  },
+  {
+    "id": 1384,
+    "en": "Measurement",
+    "tr": "Ölçüm"
+  },
+  {
+    "id": 1385,
+    "en": "Method",
+    "tr": "Yöntem"
+  },
+  {
+    "id": 1386,
+    "en": "Mitigation",
+    "tr": "Azaltma"
+  },
+  {
+    "id": 1387,
+    "en": "Modification",
+    "tr": "Değişiklik"
+  },
+  {
+    "id": 1388,
+    "en": "Motive",
+    "tr": "Güdü"
+  },
+  {
+    "id": 1389,
+    "en": "Occurrence",
+    "tr": "Olay"
+  },
+  {
+    "id": 1390,
+    "en": "Odds",
+    "tr": "Olasılık"
+  },
+  {
+    "id": 1391,
+    "en": "Optimization",
+    "tr": "Optimizasyon"
+  },
+  {
+    "id": 1392,
+    "en": "Outcome",
+    "tr": "Sonuç"
+  },
+  {
+    "id": 1393,
+    "en": "Perception",
+    "tr": "Algı"
+  },
+  {
+    "id": 1394,
+    "en": "Predisposition",
+    "tr": "Yatkınlık"
+  },
+  {
+    "id": 1395,
+    "en": "Impairment",
+    "tr": "Bozulma"
+  },
+  {
+    "id": 1396,
+    "en": "Proficiency",
+    "tr": "Yeterlilik"
+  },
+  {
+    "id": 1397,
+    "en": "Prevention",
+    "tr": "Önleme"
+  },
+  {
+    "id": 1398,
+    "en": "Procedure",
+    "tr": "Prosedür"
+  },
+  {
+    "id": 1399,
+    "en": "Proliferation",
+    "tr": "Çoğalma"
+  },
+  {
+    "id": 1400,
+    "en": "Recurrence",
+    "tr": "Tekrar"
+  },
+  {
+    "id": 1401,
+    "en": "Recovery",
+    "tr": "İyileşme"
+  },
+  {
+    "id": 1402,
+    "en": "Rehabilitation",
+    "tr": "Rehabilitasyon"
+  },
+  {
+    "id": 1403,
+    "en": "Relapse",
+    "tr": "Nüksetme"
+  },
+  {
+    "id": 1404,
+    "en": "Risk",
+    "tr": "Risk"
+  },
+  {
+    "id": 1405,
+    "en": "Scrutiny",
+    "tr": "İnceleme"
+  },
+  {
+    "id": 1406,
+    "en": "Substitution",
+    "tr": "Yer değiştirme"
+  },
+  {
+    "id": 1407,
+    "en": "Susceptibility",
+    "tr": "Yatkınlık"
+  },
+  {
+    "id": 1408,
+    "en": "Toddler",
+    "tr": "Yeni yürümeye başlayan çocuk"
+  },
+  {
+    "id": 1409,
+    "en": "Traits",
+    "tr": "Özellikler"
+  },
+  {
+    "id": 1410,
+    "en": "Treatment",
+    "tr": "Tedavi"
+  },
+  {
+    "id": 1411,
+    "en": "Verification",
+    "tr": "Doğrulama"
+  },
+  {
+    "id": 1412,
+    "en": "Viability",
+    "tr": "Yaşayabilirlik"
+  },
+  {
+    "id": 1413,
+    "en": "Vulnerability",
+    "tr": "Zayıflık"
+  },
+  {
+    "id": 1414,
+    "en": "Account for",
+    "tr": "oluşturmak açıklamak"
+  },
+  {
+    "id": 1415,
+    "en": "Back up",
+    "tr": "desteklemek"
+  },
+  {
+    "id": 1416,
+    "en": "Break down",
+    "tr": "parçalamak (yağ vs.)"
+  },
+  {
+    "id": 1417,
+    "en": "Bring about",
+    "tr": "sebep olmak"
+  },
+  {
+    "id": 1418,
+    "en": "Bring out",
+    "tr": "bir şey üretmek/çıkarmak"
+  },
+  {
+    "id": 1419,
+    "en": "Bring up",
+    "tr": "büyütmek, gündeme getirmek"
+  },
+  {
+    "id": 1420,
+    "en": "Call for",
+    "tr": "istemek/gerektirmek"
+  },
+  {
+    "id": 1421,
+    "en": "Call off",
+    "tr": "iptal etmek"
+  },
+  {
+    "id": 1422,
+    "en": "Carry on",
+    "tr": "devam etmek, ilerlemek"
+  },
+  {
+    "id": 1423,
+    "en": "Carry out",
+    "tr": "uygulamak"
+  },
+  {
+    "id": 1424,
+    "en": "Catch up with",
+    "tr": "arayı kapatmak"
+  },
+  {
+    "id": 1425,
+    "en": "Come across",
+    "tr": "karşılaşmak"
+  },
+  {
+    "id": 1426,
+    "en": "Come down with",
+    "tr": "yenik düşmek"
+  },
+  {
+    "id": 1427,
+    "en": "Cut down on",
+    "tr": "azaltmak/kesmek"
+  },
+  {
+    "id": 1428,
+    "en": "Drop out",
+    "tr": "yarıda bırakmak"
+  },
+  {
+    "id": 1429,
+    "en": "End up",
+    "tr": "birşeyle sonuçlanmak"
+  },
+  {
+    "id": 1430,
+    "en": "Find out",
+    "tr": "öğrenmek, bulmak"
+  },
+  {
+    "id": 1431,
+    "en": "Give off",
+    "tr": "yaymak (koku, duman vs.)"
+  },
+  {
+    "id": 1432,
+    "en": "Go down",
+    "tr": "inmek/düş(ümek"
+  },
+  {
+    "id": 1433,
+    "en": "Go down with",
+    "tr": "yakalanmak (hastalı"
+  },
+  {
+    "id": 1434,
+    "en": "Go into",
+    "tr": "girmek"
+  },
+  {
+    "id": 1435,
+    "en": "Go off",
+    "tr": "patlamak/bozulmak (gıd"
+  },
+  {
+    "id": 1436,
+    "en": "Go up",
+    "tr": "artmak, yükselmek"
+  },
+  {
+    "id": 1437,
+    "en": "Hand down",
+    "tr": "aktarmak (genetiği vs.)"
+  },
+  {
+    "id": 1438,
+    "en": "Keep up with",
+    "tr": "ayak uydurmak"
+  },
+  {
+    "id": 1439,
+    "en": "Lay off",
+    "tr": "kovmak"
+  },
+  {
+    "id": 1440,
+    "en": "Lie behind",
+    "tr": "altında yatmak (sebep v"
+  },
+  {
+    "id": 1441,
+    "en": "Look down on",
+    "tr": "küçümsemek"
+  },
+  {
+    "id": 1442,
+    "en": "Make out",
+    "tr": "halletmek"
+  },
+  {
+    "id": 1443,
+    "en": "Make up",
+    "tr": "oluşturmak / uydurmak"
+  },
+  {
+    "id": 1444,
+    "en": "Make up for",
+    "tr": "telafi etmek (compensat"
+  },
+  {
+    "id": 1445,
+    "en": "Move on",
+    "tr": "devam etmek"
+  },
+  {
+    "id": 1446,
+    "en": "Pass out",
+    "tr": "bayılmak"
+  },
+  {
+    "id": 1447,
+    "en": "Pick up",
+    "tr": "toplamak, almak"
+  },
+  {
+    "id": 1448,
+    "en": "Point out",
+    "tr": "göstermek, açıklamak"
+  },
+  {
+    "id": 1449,
+    "en": "Pop up",
+    "tr": "birden ortaya çıkıvermek"
+  },
+  {
+    "id": 1450,
+    "en": "Pull out",
+    "tr": "çekmek (diş)/çıkartmak"
+  },
+  {
+    "id": 1451,
+    "en": "Pull through",
+    "tr": "iyileşmek"
+  },
+  {
+    "id": 1452,
+    "en": "Put aside",
+    "tr": "kenara koymak/biriktirmek"
+  },
+  {
+    "id": 1453,
+    "en": "Put on",
+    "tr": "giymek/kilo almak, şişmanlamak"
+  },
+  {
+    "id": 1454,
+    "en": "Put out",
+    "tr": "ateşi söndürmek"
+  },
+  {
+    "id": 1455,
+    "en": "Put up with",
+    "tr": "tolere etmek"
+  },
+  {
+    "id": 1456,
+    "en": "Rely on",
+    "tr": "güvenmek / bel bağlamak"
+  },
+  {
+    "id": 1457,
+    "en": "Rest in",
+    "tr": "-de yatmak"
+  },
+  {
+    "id": 1458,
+    "en": "Rule out",
+    "tr": "elemine etmek/izole etmek"
+  },
+  {
+    "id": 1459,
+    "en": "Run out of",
+    "tr": "bitmek"
+  },
+  {
+    "id": 1460,
+    "en": "Sort out",
+    "tr": "halletmek / çözmek"
+  },
+  {
+    "id": 1461,
+    "en": "Stand for",
+    "tr": "anlamına gelmek (kısaltm"
+  },
+  {
+    "id": 1462,
+    "en": "Take after",
+    "tr": "benzemek/çekmek (birin"
+  },
+  {
+    "id": 1463,
+    "en": "Take off",
+    "tr": "çıkartmak/yükselişe geçmek"
+  },
+  {
+    "id": 1464,
+    "en": "Take on",
+    "tr": "üstlenmek (görev v"
+  },
+  {
+    "id": 1465,
+    "en": "Take out",
+    "tr": "çıkarmak"
+  },
+  {
+    "id": 1466,
+    "en": "Take over",
+    "tr": "kontrolü ele almak, devralmak"
+  },
+  {
+    "id": 1467,
+    "en": "Take up",
+    "tr": "başlamak -kaplamak (ala"
+  },
+  {
+    "id": 1468,
+    "en": "Tear out",
+    "tr": "yırtılmak"
+  },
+  {
+    "id": 1469,
+    "en": "Throw up",
+    "tr": "kusmak"
+  },
+  {
+    "id": 1470,
+    "en": "Turn into",
+    "tr": "-e dönüşmek"
+  },
+  {
+    "id": 1471,
+    "en": "Wear out",
+    "tr": "yıpranmak"
+  },
+  {
+    "id": 1472,
+    "en": "Work out",
+    "tr": "halletmek/çözmek"
+  },
+  {
+    "id": 1473,
+    "en": "Accurate",
+    "tr": "doğru, kesin"
+  },
+  {
+    "id": 1474,
+    "en": "Adequate",
+    "tr": "yeterli"
+  },
+  {
+    "id": 1475,
+    "en": "Ambiguous",
+    "tr": "belirsiz, muğlak"
+  },
+  {
+    "id": 1476,
+    "en": "Apparent",
+    "tr": "açık, bariz"
+  },
+  {
+    "id": 1477,
+    "en": "Appropriate",
+    "tr": "uygun"
+  },
+  {
+    "id": 1478,
+    "en": "Consistent",
+    "tr": "tutarlı"
+  },
+  {
+    "id": 1479,
+    "en": "Controversial",
+    "tr": "tartışmalı"
+  },
+  {
+    "id": 1480,
+    "en": "Diverse",
+    "tr": "çeşitli, farklı"
+  },
+  {
+    "id": 1481,
+    "en": "Explicit",
+    "tr": "açık, belirgin"
+  },
+  {
+    "id": 1482,
+    "en": "Extensive",
+    "tr": "kapsamlı, geniş"
+  },
+  {
+    "id": 1483,
+    "en": "Feasible",
+    "tr": "yapılabilir, uygulanabilir"
+  },
+  {
+    "id": 1484,
+    "en": "Identical",
+    "tr": "tıpatıp aynı, özdeş"
+  },
+  {
+    "id": 1485,
+    "en": "Imperative",
+    "tr": "zorunlu, mecburi"
+  },
+  {
+    "id": 1486,
+    "en": "Inadequate",
+    "tr": "yetersiz"
+  },
+  {
+    "id": 1487,
+    "en": "Inherent",
+    "tr": "Inborn - doğuştan gelen, özünde olan"
+  },
+  {
+    "id": 1488,
+    "en": "Intense",
+    "tr": "yoğun, şiddetli"
+  },
+  {
+    "id": 1489,
+    "en": "Intricate",
+    "tr": "karmaşık, girift"
+  },
+  {
+    "id": 1490,
+    "en": "Legitimate",
+    "tr": "meşru, yasal"
+  },
+  {
+    "id": 1491,
+    "en": "Lucrative",
+    "tr": "karlı, kazançlı"
+  },
+  {
+    "id": 1492,
+    "en": "Mature",
+    "tr": "olgun"
+  },
+  {
+    "id": 1493,
+    "en": "Obsolete",
+    "tr": "modası geçmiş, eskimiş"
+  },
+  {
+    "id": 1494,
+    "en": "Plausible",
+    "tr": "makul, mantıklı"
+  },
+  {
+    "id": 1495,
+    "en": "Prevalent",
+    "tr": "yaygın"
+  },
+  {
+    "id": 1496,
+    "en": "Prone",
+    "tr": "yatkın, eğilimli"
+  },
+  {
+    "id": 1497,
+    "en": "Radical",
+    "tr": "köklü, radikal"
+  },
+  {
+    "id": 1498,
+    "en": "Resilient",
+    "tr": "dirençli, dayanıklı"
+  },
+  {
+    "id": 1499,
+    "en": "Rigid",
+    "tr": "katı, sert"
+  },
+  {
+    "id": 1500,
+    "en": "Robust",
+    "tr": "sağlam, güçlü"
+  },
+  {
+    "id": 1501,
+    "en": "Scarce",
+    "tr": "kıt, nadir"
+  },
+  {
+    "id": 1502,
+    "en": "Subtle",
+    "tr": "göze batmayan/küçük"
+  },
+  {
+    "id": 1503,
+    "en": "Tentative",
+    "tr": "geçici, deneme amaçlı"
+  },
+  {
+    "id": 1504,
+    "en": "Thorough",
+    "tr": "detaylı, kapsamlı"
+  },
+  {
+    "id": 1505,
+    "en": "Unique",
+    "tr": "Sole - benzersiz, eşsiz"
+  },
+  {
+    "id": 1506,
+    "en": "Vulnerable",
+    "tr": "savunmasız, hassas"
+  },
+  {
+    "id": 1507,
+    "en": "Intact",
+    "tr": "el değmemiş/çalışılmamış"
+  },
+  {
+    "id": 1508,
+    "en": "Nearly",
+    "tr": "Practically / Virtually / Approximately / Around / About: neredeyse, yaklaşık olarak"
+  },
+  {
+    "id": 1509,
+    "en": "Partially",
+    "tr": "Relatively / In part: kısmen, nispeten"
+  },
+  {
+    "id": 1510,
+    "en": "Finally",
+    "tr": "Eventually / Ultimately / Subsequently: nihayetinde, sonunda, ardından"
+  },
+  {
+    "id": 1511,
+    "en": "Remarkably",
+    "tr": "Significantly / Fundamentally: önemli ölçüde, dikkat çekici bir şekilde"
+  },
+  {
+    "id": 1512,
+    "en": "Immediately",
+    "tr": "Rapidly / Swiftly / Promptly/Abruptly: hemen, hızla, ani bir şekilde"
+  },
+  {
+    "id": 1513,
+    "en": "Increasingly",
+    "tr": "Progressively / Gradually: giderek artan bir şekilde, kademeli olarak"
+  },
+  {
+    "id": 1514,
+    "en": "Tremendously",
+    "tr": "Enormously / Immensely: büyük şekilde, büyük oranda"
+  },
+  {
+    "id": 1515,
+    "en": "Accurately",
+    "tr": "Precisely: doğru bir şekilde, kesin olarak"
+  },
+  {
+    "id": 1516,
+    "en": "Adequately",
+    "tr": "Sufficiently: yeterli bir şekilde"
+  },
+  {
+    "id": 1517,
+    "en": "Ambiguously",
+    "tr": "Vaguely: belirsiz bir şekilde, muğlak olarak"
+  },
+  {
+    "id": 1518,
+    "en": "Apparently",
+    "tr": "Clearly: açıkça, bariz bir şekilde"
+  },
+  {
+    "id": 1519,
+    "en": "Appropriately",
+    "tr": "Conveniently / Properly: uygun bir şekilde"
+  },
+  {
+    "id": 1520,
+    "en": "Consistently",
+    "tr": "Coherently: tutarlı bir şekilde"
+  },
+  {
+    "id": 1521,
+    "en": "Controversially",
+    "tr": "tartışmalı bir şekilde"
+  },
+  {
+    "id": 1522,
+    "en": "Diversely",
+    "tr": "Distinctly: çeşitli, farklı bir şekilde"
+  },
+  {
+    "id": 1523,
+    "en": "Explicitly",
+    "tr": "Clearly: açıkça, belirgin bir şekilde"
+  },
+  {
+    "id": 1524,
+    "en": "Extensively",
+    "tr": "Comprehensively: kapsamlı bir şekilde, geniş ölçüde"
+  },
+  {
+    "id": 1525,
+    "en": "Imperatively",
+    "tr": "Mandatorily: zorunlu olarak"
+  },
+  {
+    "id": 1526,
+    "en": "Inadequately",
+    "tr": "Insufficiently: yetersiz bir şekilde"
+  },
+  {
+    "id": 1527,
+    "en": "Inherently",
+    "tr": "Innately / Inbornly: doğuştan, özünde olarak"
+  },
+  {
+    "id": 1528,
+    "en": "Intensely",
+    "tr": "Densely: yoğun bir şekilde, şiddetli olarak"
+  },
+  {
+    "id": 1529,
+    "en": "Plausibly",
+    "tr": "Logically / Reasonably: makul, mantıklı bir şekilde"
+  },
+  {
+    "id": 1530,
+    "en": "Prevalently",
+    "tr": "Prevailingly: yaygın bir şekilde"
+  },
+  {
+    "id": 1531,
+    "en": "Vulnerably",
+    "tr": "Fragilely: savunmasız, hassas bir şekilde"
+  }
+]

@@ -216,7 +216,7 @@ function App() {
                   <span className="cat-badge">{newWordsData.length} Kelime</span>
                 </div>
                 <div className="cat-title">Sonradan Eklenenler</div>
-                <div className="cat-desc">531 adet yeni kelime seti</div>
+                <div className="cat-desc">{newWordsData.length} adet yeni kelime seti</div>
               </div>
 
               <div
